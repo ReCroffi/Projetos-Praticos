@@ -51,7 +51,7 @@ Observa-se crescimento consistente do faturamento entre 2015 e 2018. O valor red
 Observa-se que a categoria de Tecnologia concentra grande parte do faturamento. Isso pode estar relacionado ao maior valor agregado dos produtos desse segmento.
 ### Vendas por Região
 ![Vendas por Região](outputs/vendas_por_regiao.png)
-TObserva-se que duas regiões concentram mais da metade do faturamento total. Isso pode indicar maior presença da empresa nessas regiões ou maior volume de vendas nesses mercados.
+Observa-se que duas regiões concentram mais da metade do faturamento total. Isso pode indicar maior presença da empresa nessas regiões ou maior volume de vendas nesses mercados.
 
 
 ## ⚠️ Limitações
