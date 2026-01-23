@@ -80,4 +80,5 @@ Em todos os projetos, sigo os mesmos princípios:
 ## 👤 Autor
 **Renan Croffi**  
 Cientista de Dados em formação
+
 📎 LinkedIn: *www.linkedin.com/in/renancroffi* 
